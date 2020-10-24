@@ -21,7 +21,7 @@ The focus of the analysis was to generate two key insights most relevant for Lou
   
     * Assess in detail, the subcategory - plays in theater to calculate the success, failure, and cancelation percentage based on the fundraising goal in dollar amount ranges upto $50000 with intervals of $5000.
 
-  ## Challenges and Difficulties Encountered
+  ### Challenges and Difficulties Encountered
   
     * Assuring proper data formatting of a large dataset required great attention to detail and several revisions. For instance, conversion of linux timestamps to readable date formats and checking all columns to ensure correct data format so excel formulas are evaluated correctly.
       
