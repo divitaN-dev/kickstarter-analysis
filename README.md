@@ -40,7 +40,9 @@ The focus of the analysis was to generate two key insights most relevant for Lou
     
       * About half of the theater related campaigns launched in December failed to meet their fundraising goal. The failure rate was notably in high in October as well.
       
-      ![Outcomes based on Launch Date](https://github.com/divitaN-dev/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+      
+![Outcomes based on Launch Date](https://github.com/divitaN-dev/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+
       
 
   ### Conclusions on the analysis of Outcomes based on Goals:
@@ -57,7 +59,9 @@ The focus of the analysis was to generate two key insights most relevant for Lou
       
       * Campaigns with goals in the range of $15000 - $24999 succeeded close to 50% of the time, however, they acoounted for significantly fewer projects.
       
-      ![Outcomes based on Goals](https://github.com/divitaN-dev/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+      
+![Outcomes based on Goals](https://github.com/divitaN-dev/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+
       
 
  ### Limitations of this dataset:
